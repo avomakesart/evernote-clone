@@ -21,10 +21,10 @@ const styles = (theme) => ({
     height: '35px',
     borderBottom: '1px solid black',
     borderRadius: '0px',
-    backgroundColor: '#29487d',
+    backgroundColor: '#191919',
     color: 'white',
     '&:hover': {
-      backgroundColor: '#88a2ce',
+      backgroundColor: '#5a5a5a',
     },
   },
   sidebarContainer: {
@@ -49,7 +49,7 @@ const styles = (theme) => ({
   },
   newNoteSubmitBtn: {
     width: '100%',
-    backgroundColor: '#28787c',
+    backgroundColor: '#468499',
     borderRadius: '0px',
     color: 'white',
   },
